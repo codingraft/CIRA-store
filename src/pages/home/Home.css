@@ -1,0 +1,12 @@
+.p-4.md\:w-1\/4.drop-shadow-lg{
+    display: none;
+}
+.p-4.md\:w-1\/4.drop-shadow-lg:nth-child(1){
+    display: block;
+}
+.p-4.md\:w-1\/4.drop-shadow-lg:nth-child(2){
+    display: block;
+}
+.p-4.md\:w-1\/4.drop-shadow-lg:nth-child(3){
+    display: block;
+}

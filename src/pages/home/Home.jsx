@@ -6,6 +6,7 @@ import ProductCard from "../../components/productCard/ProductCard";
 import Testimonial from "../../components/testimonials/Testimonials";
 // import { useSelector } from "react-redux";
 // import { addToCart, deleteFromCart } from "../../redux/cartSlice";
+import './Home.css'
 
 const Home = () => {
   // const cartItem = useSelector((state) => state.cart);
